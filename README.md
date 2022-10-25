@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @TomRWatkins
 - :house: I'm based in Manchester.
 - 👀 I’m an Associate Software Engineer currently working with C# and .NET.
-- When I'm not working I'm probably either watching the football or solving Leetcode problems.
+- When I'm not working I'll either be watching the football or solving Leetcode problems!
 <br>
-<img width="851" alt="Screenshot 2022-10-18 at 08 09 44" src="https://user-images.githubusercontent.com/47918164/196361297-a4d135f6-fde2-4312-8f07-e3cbfbd80a9a.png">
+<img width="852" alt="Screenshot 2022-10-25 at 10 23 26" src="https://user-images.githubusercontent.com/47918164/197736377-1a4006b1-f5dc-4d0b-a4bb-963ac3bbea71.png">
+
 
 
 Feel free to reach out!
