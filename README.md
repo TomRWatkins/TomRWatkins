@@ -4,8 +4,7 @@
 - When I'm not working I'll either be watching the football or solving Leetcode problems!
 <br>
 
-<img width="854" alt="Screenshot 2023-02-17 at 18 41 00" src="https://user-images.githubusercontent.com/47918164/219757045-37bf4140-e79c-493f-a839-b762993b44a0.png">
-
+<img width="856" alt="Screenshot 2023-03-20 at 15 02 43" src="https://user-images.githubusercontent.com/47918164/226381088-c564a668-b5fe-4736-a90e-6cd07d4cf710.png">
 
 Feel free to reach out!
 
