@@ -3,8 +3,9 @@
 - 👀 I’m an Associate Software Engineer currently working with C# and .NET.
 - When I'm not working I'll either be watching the football or solving Leetcode problems!
 <br>
+<img width="1168" alt="Screenshot 2023-04-28 at 16 55 43" src="https://user-images.githubusercontent.com/47918164/235195944-f489abd7-4165-4325-9e1e-83c60421d461.png">
 
-<img width="856" alt="Screenshot 2023-03-20 at 15 02 43" src="https://user-images.githubusercontent.com/47918164/226381088-c564a668-b5fe-4736-a90e-6cd07d4cf710.png">
+
 
 Feel free to reach out!
 
